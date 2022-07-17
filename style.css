@@ -1,0 +1,59 @@
+img{
+    max-width: 100%;
+    vertical-align: middle;
+}
+#p:hover{
+    color:rgb(243, 102, 243);
+}
+.b{
+    border-radius: 10px;
+    background-color:purple;
+     
+}
+input{
+    width: 100%;
+}
+.p{
+    background-color: purple;
+}
+.bt{
+    border-radius: 50px;
+    background-color: blueviolet;
+}
+.bt:hover{
+    background-color: bisque;
+}
+.i1{
+    height: 300px;
+}
+
+.h{
+    padding-left: 25px;
+    font-family:sans-serif;
+}
+.head-sec{
+    text-align: center;
+}
+.card{
+    width: 300px;
+    height: 250px;
+}
+.row ms-5 pt-2{
+    background-color: brown;
+    text-decoration-color: brown;
+    box-decoration-break: slice;
+    box-shadow: purple;
+
+}
+.m:hover{
+    color: blueviolet;}
+.card-body{
+    background-color: white;
+}
+.m:hover{
+    color:brown;
+    box-shadow: black;
+    background-color: aqua;
+
+}
+
